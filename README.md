@@ -93,7 +93,7 @@ Built and styled web interfaces as part of real development tasks — working wi
 |---|---|
 | 📧 Email | adityanarayankaushik47@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/aditya-narayan-kaushik/) |
-| 📄 Resume | [View Resume](file:///C:/Users/Aditya%20Kaushik/Downloads/Aditya_Narayan_Kaushik_Resume_V4.pdf) |
+| 📄 Resume | [View Resume](https://drive.google.com/file/d/1RqCi3nsvboge7yRpK_HM1UNwzbCKH7rC/view?usp=sharing) |
 | 📍 Location | India · Open to office roles |
 
 ---
