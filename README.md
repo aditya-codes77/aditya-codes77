@@ -1,33 +1,100 @@
-<h1 align="center">Hi 👋, I'm Aditya Narayan Kaushik Java | Spring Boot | React | Problem Solver</h1>
-<h3 align="center">💻 Java Full Stack Developer | DSA Enthusiast | Building Real-World Projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-codes77&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-codes77" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-codes77&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-codes77" alt="aditya-codes77" /></a> </p>
+# Hi, I'm Aditya Narayan Kaushik 👋
+### Full Stack Java Developer · Fresher · Two internships done · One live project shipped.
 
-- 🌱 I’m currently learning **System Design, Spring Boot Advanced, Microservices, DSA (LeetCode)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanarayankaushik47@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-USERNAME)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR-GOOGLE-DRIVE-LINK)
 
-- 💬 Ask me about **Java, DSA, Spring Boot, REST APIs, SQL**
+![Oasis Infobyte](https://img.shields.io/badge/Intern-Oasis_Infobyte-orange?style=for-the-badge)
+![CodSoft](https://img.shields.io/badge/Intern-CodSoft-blue?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open_to-Full_Time_Roles-green?style=for-the-badge)
 
-- 📫 How to reach me **adityanarayankaushik47@gmail.com**
+---
 
-- 📄 Know about my experiences [file:///C:/Users/Aditya%20Kaushik/Downloads/Aditya_Narayan_Kaushik_Java_Developer_Fresher%20(1).pdf](file:///C:/Users/Aditya%20Kaushik/Downloads/Aditya_Narayan_Kaushik_Java_Developer_Fresher%20(1).pdf)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I enjoy solving complex problems and turning ideas into real-world applications**
+I'm a fresher full stack developer with a focus on Java and Spring Boot on the backend, React on the front. I've completed two internships — one in Java development at **Oasis Infobyte**, one in web development at **CodSoft** — and built a live, deployed cloud application entirely on my own.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-narayan-kaushik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-narayan-kaushik/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adityanarayanka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityanarayanka1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aditya_narayan_kaushik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditya_narayan_kaushik/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/adityanaraya7ucs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/adityanaraya7ucs" height="30" width="40" /></a>
-</p>
+I'm not just someone who watched tutorials and listed technologies. I wrote the APIs, wired up the auth, containerized the app, and shipped it. Now I'm looking for a team where I can do that every day and keep getting better.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-codes77&show_icons=true&locale=en&layout=compact" alt="aditya-codes77" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-codes77&show_icons=true&locale=en" alt="aditya-codes77" /></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-codes77&" alt="aditya-codes77" /></p>
+**Currently learning:** Kubernetes · AWS · System Design · Microservices
+
+---
+
+## 💼 Internships
+
+**Java Developer Intern — Oasis Infobyte**
+Worked on Java-based development tasks, strengthening core backend skills including OOP, data structures, and Java application development in a structured environment.
+
+**Web Development Intern — CodSoft**
+Built and styled web interfaces as part of real development tasks — working with HTML, CSS, JavaScript, and React to create functional, responsive UIs.
+
+---
+
+## 🚀 Projects
+
+### ☁️ Cloud-Based File Sharing App
+**Stack:** Spring Boot · React.js · MongoDB · Docker · Clerk Auth · Render · Vercel
+
+> A secure, full-stack file sharing platform supporting uploads up to 500MB with role-based access control — built and deployed entirely by me.
+
+- Built JWT-based authentication and role-based access control from scratch
+- Designed a full RESTful API layer with Spring Boot backed by MongoDB
+- Containerized with Docker, split deployment — backend on Render, frontend on Vercel
+
+🔗 [Live Demo](YOUR-LIVE-DEMO-LINK) · [GitHub Repo](YOUR-REPO-LINK)
+
+---
+
+### 🔧 Second Project — Coming Soon
+> Focused on microservices architecture with Spring Boot · Repo dropping soon.
+
+---
+
+## 📊 GitHub Stats
+
+
+
+
+  
+  
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aditya-codes77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📫 Contact Me
+
+| | |
+|---|---|
+| 📧 Email | adityanarayankaushik47@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE) |
+| 📄 Resume | [View Resume](YOUR-GOOGLE-DRIVE-LINK) |
+| 📍 Location | India · Open to office roles |
+
+---
+*Currently open to full-time Java / Full Stack developer roles.*
