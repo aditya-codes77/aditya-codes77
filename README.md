@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-narayan-kaushik/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanarayankaushik47@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Narayan_Kaushik/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/u/0/home)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1RqCi3nsvboge7yRpK_HM1UNwzbCKH7rC/view?usp=sharing)
 
 ![Oasis Infobyte](https://img.shields.io/badge/Intern-Oasis_Infobyte-orange?style=for-the-badge)
 ![CodSoft](https://img.shields.io/badge/Intern-CodSoft-blue?style=for-the-badge)
