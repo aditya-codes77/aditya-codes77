@@ -4,10 +4,10 @@
 # Hi, I'm Aditya Narayan Kaushik 👋
 ### Full Stack Java Developer · Fresher · Two internships done · One live project shipped.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-narayan-kaushik/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanarayankaushik47@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-USERNAME)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR-GOOGLE-DRIVE-LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Narayan_Kaushik/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](file:///C:/Users/Aditya%20Kaushik/Downloads/Aditya_Narayan_Kaushik_Resume_V4.pdf)
 
 ![Oasis Infobyte](https://img.shields.io/badge/Intern-Oasis_Infobyte-orange?style=for-the-badge)
 ![CodSoft](https://img.shields.io/badge/Intern-CodSoft-blue?style=for-the-badge)
@@ -63,7 +63,7 @@ Built and styled web interfaces as part of real development tasks — working wi
 - Designed a full RESTful API layer with Spring Boot backed by MongoDB
 - Containerized with Docker, split deployment — backend on Render, frontend on Vercel
 
-🔗 [Live Demo](YOUR-LIVE-DEMO-LINK) · [GitHub Repo](YOUR-REPO-LINK)
+🔗 [Live Demo](https://cloud-file-sharing-app.vercel.app/) · [GitHub Repo](https://github.com/aditya-codes77/cloud-file-sharing-app)
 
 ---
 
@@ -92,8 +92,8 @@ Built and styled web interfaces as part of real development tasks — working wi
 | | |
 |---|---|
 | 📧 Email | adityanarayankaushik47@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE) |
-| 📄 Resume | [View Resume](YOUR-GOOGLE-DRIVE-LINK) |
+| 💼 LinkedIn | [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/aditya-narayan-kaushik/) |
+| 📄 Resume | [View Resume](file:///C:/Users/Aditya%20Kaushik/Downloads/Aditya_Narayan_Kaushik_Resume_V4.pdf) |
 | 📍 Location | India · Open to office roles |
 
 ---
